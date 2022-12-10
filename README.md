@@ -1,2 +1,2 @@
-# web-development-front-end-back-end
+# web-development-data entry to mySQL database
 front-end back-end
